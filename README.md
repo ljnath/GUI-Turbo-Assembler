@@ -3,6 +3,9 @@
 ## Download Link 
 https://sourceforge.net/projects/guitasm8086/
 
+<img style="width:116px !important" alt="Download GUI Turbo Assembler" src="https://img.shields.io/sourceforge/dw/guitasm8086.svg">
+
+
 ## Summary
 GUI Turbo Assembler is an essential Integrated Development Environment for Assembly language.
 GUI Turbo Assembler comes integrated with Borland Turbo Assembler and Turbo Linker for assembling and building assembly codes. It is powered by DOSBox for handling Borland Turbo Assembler and Turbo Linker in 64-bit environment.
