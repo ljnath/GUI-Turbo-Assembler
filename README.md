@@ -1,11 +1,15 @@
 # GUI Turbo Assembler
 
+## Version 4.0 - WIP
+
 ## Download Link 
 https://sourceforge.net/projects/guitasm8086/
 
 <img style="width:116px !important" alt="Download GUI Turbo Assembler" src="https://img.shields.io/sourceforge/dw/guitasm8086.svg">
 
 
+
+<!-- 
 <link href="https://software.informer.com/style/v4/css_modules/rect_v1.recom.css" rel="stylesheet"/><div class="award"><div class="rest_v2_recom blue exc"><div class="rb_flex rb_top"><span class="rb_stars">recommended</span></span></div><a href="https://gui-turbo-assembler-x64.software.informer.com/" class="rb_center f11" target="_blank">GUI Turbo Assembler x64</a><div class="rb_flex"><a href="https://software.informer.com/" class="rb_bot" target="_blank">Software Informer</a><div>2021</div></div></div></div>
 
 
@@ -16,7 +20,7 @@ https://sourceforge.net/projects/guitasm8086/
     </a> 
     </div>
 </div>
-<a href="https://gui-turbo-assembler.software.informer.com/" target="_blank"><img src="https://img.informer.com/awards/si-award-clean.png" alt="Software Informer Virus Free award" height="170" width="170" /></a>
+<a href="https://gui-turbo-assembler.software.informer.com/" target="_blank"><img src="https://img.informer.com/awards/si-award-clean.png" alt="Software Informer Virus Free award" height="170" width="170" /></a> -->
 
 
 
