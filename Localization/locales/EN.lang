@@ -157,7 +157,7 @@
 			"Added support to handle ASM file with macro in 64-bit version"
 		],
 		"Change400": [
-			"Version 4.0.0 | Built on : 16th September 2023, 02:30:45 Hrs.",
+			"Version 4.0.0 | Built on : 18th September 2023, 00:04:02 Hrs.",
 			"Added localized text support for German and Polish.",
 			"Added support for restoring any broken settings with a single click.",
 			"Added support to run custom assemble and build commands for advance user",

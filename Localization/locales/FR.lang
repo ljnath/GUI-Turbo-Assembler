@@ -157,7 +157,7 @@
 			"Ajout du support pour gérer le fichier ASM avec macro dans la version 64-bit"
 		],
 		"Change400": [
-			"Version 4.0.0 | Construit le : 16 septembre 2023, 02:30:45 heures..",
+			"Version 4.0.0 | Construit le : 18 septembre 2023, 00:04:02 heures..",
 			"Prise en charge du texte localisé pour l'allemand et le polonais.",
 			"Ajout de la possibilité de restaurer tous les paramètres endommagés en un seul clic.",
 			"Ajout de l'option 'Ouvrir le dossier contenant' pour les fichiers source enregistrés dans le menu 'Fichier'.",
