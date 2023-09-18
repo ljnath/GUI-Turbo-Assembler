@@ -13,22 +13,26 @@ Website : https://ljnath.com</br>
 
 ## Introduction
 
-GUI Turbo Assembler is an essential IDE for assembly language programming. It includes Borland Turbo Assembler (TASM), Turbo Linker, and DOSBox, making it a comprehensive solution for assembly development. 
 
-Borland Turbo Assembler is a versatile multi-pass assembler compatible with Microsoft Macro Assembler (MASM) and supports a range of Intel 80x86 processors, including 8088, 8086, 80186, 80286, 80386, i486, Pentium, and Pentium Pro.
+GUI Turbo Assembler is an essential Integrated Development Environment for Assembly language.
+GUI Turbo Assembler comes integrated with Borland Turbo Assembler and Turbo Linker for assembling and building assembly codes. It is powered by DOSBox for handling Borland Turbo Assembler and Borland Turbo Linker in 64-bit environment.
 
-GUI Turbo Assembler works seamlessly in both x86 and x64 environments. For x64 compatibility, it emulates the required environment using a customized build of DOSBox, enabling the assembly, linking, and execution of code written in assembly language.
+The IDE is loaded with powerful feature like syntax highlighting, code folding along with the other regular features to work with any assembly source code. It supports compiling and building of assembly codes to windows executable with a single click.
 
-GUI Turbo Assembler offers a range of features, including basic file handling and advanced functionalities like line numbering, syntax highlighting, and code folding. The IDE is highly customizable, allowing users to tailor the interface and customize default arguments for Borland Turbo Assembler and Turbo Linker.
+The current version of IDE, boast of tab browsing, thereby allowing users to work with multiple files simultaneously.  With its simple UI and powerful functionalities, it proves to be a great tool and an alternative to the command-line assembler and linker. Version 4.0.0 also offers advanced users the capability to customize the assembly and build processes. For more details, please consult the user guide.
 
-GUI Turbo Assembler supports localization in seven different languages and enables users to create and utilize their own localized files. Additionally, users have the opportunity to contribute those in the Github project.
+This package comes with Borland Turbo Assembler 4.1, Borland Turbo Linker 7.1 and DOSBox 0.74-3
 
-We welcome your input and are open to suggestions for improvement or feature requests. Feel free to reach out to us with bug reports or any feedback you may have. Your contributions and donations are highly valued and greatly appreciated.
+GUI Turbo Assembler is developed using Microsoft .NET Framework 4.0 and you should have it pre-installed. Microsoft .NET Framework 4.0 can be downloadable from the link given below
+http://www.microsoft.com/en-in/download/details.aspx?id=17718
 
-GUI Turbo Assembler is provided "as is" without any warranties, including merchantability, fitness for a particular purpose, and non-infringement. Lakhya's Innovation Inc. does not guarantee that GUI Turbo Assembler will meet all your requirements or be free from interruptions, errors, or defects.
+## Contribution
 
-By using this software, you acknowledge and agree to comply with all the terms and conditions specified.
+I would highly encounge you to contribute in the locale files. 
 
+Currently localization is supported for French, Russian, Hindi, Polish, German and Chinese-Traditional. These localizations are computer genrated and not 100% accurate and I would kindly request you to contribute and/or correct the locale files. These are plain `JSON` files, which can be edited in any text-editor.
+
+I would love to include the corrected as well as new version in the upcoming public releases.
 
 ## Acknowledgement
 * [PavelTorgashov]([https://github.com/PavelTorgashov]) - for [FastColoredTextBox]([https://github.com/PavelTorgashov/FastColoredTextBox])
