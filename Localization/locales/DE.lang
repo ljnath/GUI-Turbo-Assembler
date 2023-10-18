@@ -7,7 +7,7 @@
 		"Title": "Voir Journal des modifications",
 		"Version": "Version",
 		"Change100": [
-			"Version 1.0.0 | Erstellt am: 09. März 2013 um 16:39:20 Uhr",
+			"Version 1.0 | Erstellt am: 09. März 2013 um 16:39:20 Uhr",
 			"Erstveröffentlichung",
 			"Hinzugefügt: Ein einfacher Editor mit Funktionen zum Öffnen und Speichern von Dateien",
 			"Hinzugefügt: Unterstützung zum Speichern von Einstellungen und Benutzereinstellungen lokal",
@@ -17,7 +17,7 @@
 			"Beschränkt den Benutzer daran, Dateinamen mit Leerzeichen zu öffnen und zu speichern"
 		],
 		"Change110": [
-			"Version 1.1.0 | Erstellt am: 23. März 2013 um 12:45:28 Uhr",
+			"Version 1.1 | Erstellt am: 23. März 2013 um 12:45:28 Uhr",
 			"Unterstützung für die Eingabe benutzerdefinierter Argumente für Assembler und Linker hinzugefügt",
 			"Option zum Umbruch von Text im Code-Editor hinzugefügt",
 			"Option zur Anzeige von Statistiken hinzugefügt",
@@ -33,12 +33,12 @@
 			"Benachrichtigung für nicht gespeicherte Dateien hinzugefügt"
 		],
 		"Change120": [
-			"Version 1.2.0 | Erstellt am: 23. März 2013, um 13:52:42 Uhr",
+			"Version 1.2 | Erstellt am: 23. März 2013, um 13:52:42 Uhr",
 			"Verhinderte das Kompilieren, Verknüpfen und Ausführen von ausstehenden Dateien",
 			"Unterstützung zum Anzeigen von Änderungsprotokollen hinzugefügt"
 		],
 		"Change130": [
-			"Version 1.3.0 | Erstellt am: 25. März 2013, um 11:10:17 Uhr",
+			"Version 1.3 | Erstellt am: 25. März 2013, um 11:10:17 Uhr",
 			"Rechtschreibprüfung durchgeführt",
 			"Neugestaltung des Formulars 'Änderungsprotokoll anzeigen'",
 			"Neugestaltung des Hauptfensters",
@@ -52,7 +52,7 @@
 			"Code optimiert"
 		],
 		"Change200": [
-			"Version 2.0.0 | Erstellt am: 6. September 2013, um 20:41:38 Uhr",
+			"Version 2.0 | Erstellt am: 6. September 2013, um 20:41:38 Uhr",
 			"Anzeigefehler behoben",
 			"Mehrere Anzeigefehler im 'Speichern'-Dialog behoben",
 			"Fehler im Zusammenhang mit nicht gespeicherten Benachrichtigungen beim ersten Start behoben",
@@ -87,7 +87,7 @@
 			"Unterstützung für Hilfe hinzugefügt"
 		],
 		"Change210": [
-			"Version 2.1.0 | Erstellt am: 10. Oktober 2013, um 04:42:37 Uhr",
+			"Version 2.1 | Erstellt am: 10. Oktober 2013, um 04:42:37 Uhr",
 			"Fehlerhafte Meldungsanzeige während der Kompilierung, des Builds und der Ausführung behoben",
 			"Fehlerhafte Meldungen und Beschriftungen behoben.",
 			"Fehler beim Versuch, eine fehlende ausführbare Datei zu starten, behoben",
@@ -119,7 +119,7 @@
 			"Funktionalität von 'Drucken' und 'Druckvorschau' verbessert"
 		],
 		"Change220": [
-			"Version 2.2.0 | Erstellt am: 31. Januar 2014,  20:38:44 Stunden",
+			"Version 2.2 | Erstellt am: 31. Januar 2014,  20:38:44 Stunden",
 			"Behobener Fehler in Bezug auf die Umgehung der Endbenutzer-Lizenzvereinbarung (EULA) wie in der vorherigen Version.",
 			"Tastenkombination für neuen Tab geändert.",
 			"Anwendung modularisiert unter Verwendung der Dynamic Data Library.",
@@ -130,12 +130,12 @@
 			"Log-Konsole standardmäßig deaktiviert."
 		],
 		"Change230": [
-			"Version 2.3.0 | Erstellt am: 2. Juli 2014, 21:46:29 Stunden",
+			"Version 2.3 | Erstellt am: 2. Juli 2014, 21:46:29 Stunden",
 			"Unternehmenshomepage-Link entfernt.",
 			"Entwicklerhomepage-Link bearbeitet."
 		],
 		"Change300": [
-			"Version 3.0.0 | Erstellt am: 14. März 2015, 18:20:55 Stunden",
+			"Version 3.0 | Erstellt am: 14. März 2015, 18:20:55 Stunden",
 			"Vollständige Unterstützung für 64-Bit-Systeme hinzugefügt; wird mit 64-Bit-Binärdateien geliefert.",
 			"64-Bit-Unterstützung für Borland Turbo Assembler und Turbo Linker mit DOSBox hinzugefügt.",
 			"Mehrsprachige Funktion hinzugefügt.",
@@ -157,7 +157,7 @@
 			"Unterstützung zum Verarbeiten von ASM-Dateien mit Makros in der 64-Bit-Version hinzugefügt."
 		],
 		"Change400": [
-			"Version 4.0.0 | Erstellt am: 18. September 2023, 00:04:02 Stunden",
+			"Version 4.0 | Erstellt am: 18. September 2023, 00:04:02 Stunden",
 			"Unterstützung für lokalisierten Text in Deutsch und Polnisch hinzugefügt.",
 			"Hinzufügen der Möglichkeit, alle defekten Einstellungen mit einem einzigen Klick wiederherzustellen.",
 			"Option zum Öffnen des übergeordneten Ordners für gespeicherte Quelldateien unter dem Menü 'Datei' hinzugefügt.",
@@ -190,6 +190,23 @@
 			"Wechsel zur neuen und verbesserten Assembly Launcher 2.0.",
 			"Aktualisierung auf die zuvor verwendete Version von FastColoredTextBox zur neuesten Abspaltung für bessere Leistung.",
 			"Upgrade auf die neue und verbesserte guiTasmX64 auf Basis von DOSBox 0.74-3 mit geräuschloser Ausführungsfähigkeit."
+		],
+		"Change500": [
+			"Version 5.0 | Erstellt am: 19. Oktober 2023 02:27:15 Stunden",
+			"Hinzugefügte Unterstützung zum Andocken von Code-Editoren und anderen Registerkarten für maximale Entwicklereffizienz",
+			"Hinzugefügt: Terminal, das es den Benutzern ermöglicht, Befehle direkt in der IDE einzugeben und auszuführen",
+			"Hinzugefügte Unterstützung zum Debuggen von Code mit Turbo Debugger",
+			"Hinzugefügte Unterstützung zur Anpassung des Themas der IDE basierend auf Visual Studio 2015. Unterstützte Themen sind Blue, Dark und Light",
+			"Hinzugefügte Unterstützung für Makros",
+			"Hinzugefügte Unterstützung zum Öffnen und Bearbeiten von .INC-Dateien",
+			"Hinzugefügte Unterstützung zur Anpassung des Code-Editor-Modus für Dark und Light.",
+			"Hinzugefügte Unterstützung zur Beibehaltung der angedockten Layouts",
+			"Verbesserte Aktualisierungsmeldung zur Warnung des Benutzers vor dem Wechsel zur Download-Seite",
+			"Entfernt: Unterstützung für Schriftfamilie und Anpassung der Editorfarben",
+			"Entfernt: Funktionalität 'Nutzungsinformationen anzeigen'",
+			"Entfernte benutzerdefinierte Assemblierungs- und Build-Funktion",
+			"Überarbeitung des Über uns-Bereichs",
+			"Aktualisierte Symbole und Schriftarten"
 		]
 	},
 	"IDE": {
@@ -303,7 +320,7 @@
 		"MenuVisitDeveloperHomepage": "Entwickler-Homepage besuchen",
 		"MenuVisitProductHomepage": "Produkt-Homepage besuchen",
 		"MenuWindows": "Fenster",
-		"NewUpdateTitle": "Aktualisierung verfügbar",
+		"NewUpdateTitle": "Update verfügbar",
 		"NotFound": "Nicht gefunden",
 		"NoUpdateTitle": "Kein Update",
 		"NoUpdateMsg": "Sie verwenden die neueste Version.",
@@ -344,7 +361,33 @@
 		"UnsavedTabTitle": "Ungesichertes Tab",
 		"UpdateCheckFailedMsg": "Ein Fehler ist beim Überprüfen von Anwendungsaktualisierungen aufgetreten.",
 		"UpdateCheckFailedTitle": "Fehler bei der Aktualisierungsprüfung",
-		"UpdateHasBeenReleased": "wurde veröffentlicht"
+		"TerminalWindowTitle": "Terminal",
+		"OutputFrom": "Ausgabe von",
+		"OutputWindowTitle": "Ausgabe",
+		"MenuView": "Ansicht",
+		"MenuViewOuptutWindow": "Ausgabefenster",
+		"MenuViewTerminalWindow": "Terminalfenster",
+		"MenuViewToolBar": "Symbolleiste",
+		"MenuViewStatusBar": "Statusleiste",
+		"MenuViewEditorTheme": "Editor-Thema",
+		"MenuViewEditorThemeLight": "Hell",
+		"MenuViewEditorThemeDark": "Dunkel",
+		"WordWrap": "Zeilenumbruch",
+		"MenuDebug": "Debuggen",
+		"DebugAbortByUser": "Das Debuggen der ausführbaren Datei wurde vom Benutzer abgebrochen.",
+		"DebugFailedDueToIntegrity": "Das Debuggen der ausführbaren Datei wurde aufgrund eines Integritätsfehlers abgebrochen.",
+		"DebugFailedDueToSubProcess": "Das Debuggen der ausführbaren Datei ist aufgrund eines Fehlers im Unterprozess fehlgeschlagen.",
+		"DebugExecutable": "Debuggen der ausführbaren Datei.",
+		"DebugSkipped": "Das Debuggen der ausführbaren Datei wurde übersprungen.",
+		"DebugSucessful": "Das Debuggen der ausführbaren Datei wurde erfolgreich abgeschlossen.",
+		"DebugFailed": "Der Prozess des Debuggens der ausführbaren Datei ist auf einen Fehler gestoßen.",
+		"MenuBarDebugText": "Die ausführbare Datei debuggen",
+		"TerminalWelcomeMsg": "Geben Sie einen gültigen Turbo-Befehl ein und drücken Sie [ENTER], um ihn auszuführen. \nHINWEIS: Das Arbeitsverzeichnis für eine neue Datei ist auf das Installationsverzeichnis festgelegt. Für gespeicherte Dateien ist es der Speicherort der Datei. Das Arbeitsverzeichnis kann nicht geändert werden und ist auf das Verzeichnis und seine Unterordner beschränkt.",
+		"TargetFile": "Zieldatei",
+		"UpdateMessage": "Eine neue Version von GUI Turbo Assembler steht zum Download bereit.",
+		"CurrentVersion": "Aktuelle Version",
+		"NewVersion": "Neue Version",
+		"UpdateConfirmation": "Möchten Sie zur Download-Seite wechseln?"
 	},
 	"Preference": {
 		"Advance": "Erweitert",
@@ -381,7 +424,12 @@
 		"UnsupportedFont": "Schriftart wird nicht unterstützt",
 		"UnsupportedFontMsg": "GUI Turbo Assembler unterstützt die ausgewählte Schriftart nicht",
 		"UseCustomLauncherToRunExe": "Verwenden Sie einen benutzerdefinierten Launcher, um die erstellte ausführbare Datei auszuführen",
-		"ViewArgs": "Argumente anzeigen"
+		"ViewArgs": "Argumente anzeigen",
+		"SelectEditorFontSize": "Editor Schriftgröße auswählen",
+		"SelectEditorTheme": "Editor-Design auswählen",
+		"SelectIdeTheme": "IDE-Design auswählen",
+		"CustomizeIde": "IDE anpassen",
+		"CustomizeEditor": "Editor anpassen"
 	},
 	"Others": {
 		"About": "Über",
@@ -405,7 +453,8 @@
 		"TurboAssembler": "Turbo Assembler",
 		"TurboLinker": "Turbo Linker",
 		"WelcomeTo": "Willkommen bei",
-		"Yes": "Ja"
+		"Yes": "Ja",
+		"VisitGithub": "GitHub-Seite besuchen"
 	},
 	"RecentFile": {
 		"DeleteConfirmation": "Löschen bestätigen",

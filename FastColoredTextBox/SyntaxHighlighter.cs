@@ -728,7 +728,7 @@ namespace FastColoredTextBoxNS
                     CommentStyle = ForestGreenStyle;
                     NumberStyle = CrimsonStyle;
                     KeywordStyle = DodgerBlueStyle;
-                    ClassNameStyle = BlueStyle;
+                    ClassNameStyle = MagentaStyle;
                     break;
             }
         }

@@ -7,7 +7,7 @@
 		"Title": "Voir Journal des modifications",
 		"Version": "Version",
 		"Change100": [
-			"Wersja 1.0.0 | Zbudowano: 09 marca 2013 roku o godzinie 16:39:20",
+			"Wersja 1.0 | Zbudowano: 09 marca 2013 roku o godzinie 16:39:20",
 			"Pierwsze wydanie",
 			"Dodano podstawowy edytor z funkcjami otwierania i zapisywania plików",
 			"Dodano obsługę przechowywania ustawień i preferencji użytkownika lokalnie",
@@ -17,7 +17,7 @@
 			"Ograniczono użytkownika przed otwieraniem i zapisywaniem plików, których nazwa zawiera spacje"
 		],
 		"Change110": [
-			"Wersja 1.1.0 | Zbudowano: 23 marca 2013 roku o godzinie 12:45:28",
+			"Wersja 1.1 | Zbudowano: 23 marca 2013 roku o godzinie 12:45:28",
 			"Dodano obsługę wprowadzania niestandardowych argumentów dla assemblera i linkera",
 			"Dodano opcję zawijania tekstu w edytorze kodu",
 			"Dodano opcję wyświetlania statystyk",
@@ -33,7 +33,7 @@
 			"Dodano powiadomienie o niezapisanym pliku"
 		],
 		"Change120": [
-			"Wersja 1.2.0 | Zbudowano: 23 marca 2013 roku, o godzinie 13:52:42",
+			"Wersja 1.2 | Zbudowano: 23 marca 2013 roku, o godzinie 13:52:42",
 			"Zapobiegano kompilacji, łączeniu i uruchamianiu plików z niezapisanymi zmianami",
 			"Dodano obsługę wyświetlania dziennika zmian"
 		],
@@ -52,7 +52,7 @@
 			"Zoptymalizowano kod"
 		],
 		"Change200": [
-			"Wersja 2.0.0 | Zbudowano: 6 września 2013 roku, o godzinie 20:41:38",
+			"Wersja 2.0 | Zbudowano: 6 września 2013 roku, o godzinie 20:41:38",
 			"Naprawiono błąd wyświetlania formularza",
 			"Naprawiono wiele błędów związanych z wyświetlaniem okna dialogowego 'Zapisz'",
 			"Naprawiono błąd związanego z powiadomieniem o niezapisanych zmianach przy pierwszym uruchomieniu",
@@ -87,7 +87,7 @@
 			"Dodano obsługę pomocy"
 		],
 		"Change210": [
-			"Wersja 2.1.0 | Zbudowano: 10 października 2013 roku, o godzinie 04:42:37",
+			"Wersja 2.1 | Zbudowano: 10 października 2013 roku, o godzinie 04:42:37",
 			"Naprawiono błąd wyświetlania niepoprawnych komunikatów podczas kompilacji, budowania i uruchamiania",
 			"Naprawiono komunikaty błędów i etykiety.",
 			"Naprawiono błąd, który wystąpił podczas próby uruchomienia brakującego pliku wykonywalnego",
@@ -118,7 +118,7 @@
 			"Zaktualizowano funkcjonalność 'Drukuj' i 'Podgląd wydruku'"
 		],
 		"Change220": [
-			"Wersja 2.2.0 | Zbudowano: 31 stycznia 2014 roku, o godzinie 20:38:44",
+			"Wersja 2.2 | Zbudowano: 31 stycznia 2014 roku, o godzinie 20:38:44",
 			"Naprawiono błąd związany z pominięciem licencji użytkownika końcowego (EULA) jak w poprzedniej wersji.",
 			"Zmieniono skrót klawiszowy dla nowej karty.",
 			"Zmodularyzowano aplikację przy użyciu biblioteki Dynamic Data Library.",
@@ -129,12 +129,12 @@
 			"Domyślnie wyłączono konsolę logów."
 		],
 		"Change230": [
-			"Wersja 2.3.0 | Zbudowano: 2 lipca 2014 roku, o godzinie 21:46:29",
+			"Wersja 2.3 | Zbudowano: 2 lipca 2014 roku, o godzinie 21:46:29",
 			"Usunięto link do strony internetowej firmy.",
 			"Zedytowano link do strony internetowej dewelopera."
 		],
 		"Change300": [
-			"Wersja 3.0.0 | Zbudowano: 14 marca 2015 roku, o godzinie 18:20:55",
+			"Wersja 3.0 | Zbudowano: 14 marca 2015 roku, o godzinie 18:20:55",
 			"Dodano pełną obsługę maszyn 64-bitowych; dostarczane z 64-bitowymi binariami.",
 			"Dodano obsługę 64-bitową dla Borland Turbo Assemblera i Turbo Linkera przy użyciu DOSBox.",
 			"Dodano funkcję wielojęzyczną.",
@@ -156,7 +156,7 @@
 			"Dodano obsługę obsługi plików ASM z makrami w wersji 64-bitowej."
 		],
 		"Change400": [
-			"Wersja 4.0.0 | Zbudowano: 18 września 2023 roku, o godzinie 00:04:02",
+			"Wersja 4.0 | Zbudowano: 18 września 2023 roku, o godzinie 00:04:02",
 			"Wprowadzono obsługę lokalizowanych tekstów dla języka niemieckiego i polskiego.",
 			"Dodano możliwość przywracania uszkodzonych ustawień jednym kliknięciem.",
 			"Dodano obsługę uruchamiania niestandardowych poleceń kompilacji i budowy dla zaawansowanych użytkowników.",
@@ -189,6 +189,23 @@
 			"Przeniesiono do nowej i ulepszonej wersji Assembly Launcher 2.0.",
 			"Zaktualizowano używany wcześniej FastColoredTextBox do najnowszej wersji dla lepszej wydajności.",
 			"Zaktualizowano do nowej i ulepszonej wersji guiTasmX64 opartej na DOSBox 0.74-3, z możliwością cichego wykonywania."
+		],
+		"Change500": [
+			"Wersja 5.0 | Zbudowana dnia: 19 października 2023 roku, o godzinie 02:27:15",
+			"Dodano obsługę zakotwiczenia edytorów kodu i innych kart dla maksymalnej efektywności programisty",
+			"Dodano Terminal, umożliwiający użytkownikom wprowadzanie i uruchamianie poleceń bezpośrednio w IDE",
+			"Dodano obsługę debugowania kodu za pomocą Turbo Debugger",
+			"Dodano obsługę dostosowywania motywu IDE opartego na Visual Studio 2015. Obsługiwane motywy to Blue, Dark i Light",
+			"Dodano obsługę makr",
+			"Dodano obsługę otwierania i edycji plików .INC",
+			"Dodano obsługę dostosowywania trybu edytora kodu dla trybów Dark i Light.",
+			"Dodano obsługę zachowania zakotwiczonego układu",
+			"Usprawniono powiadomienie o aktualizacji, aby ostrzec użytkownika przed przejściem do strony pobierania",
+			"Usunięto obsługę rodziny czcionek i dostosowywania kolorów edytora",
+			"Usunięto funkcjonalność 'Wyświetl informacje o użyciu'",
+			"Usunięto niestandardową funkcję assemblowania i budowania",
+			"Zmodernizowano sekcję O programie",
+			"Zaktualizowano ikony i czcionki"
 		]
 	},
 	"IDE": {
@@ -343,7 +360,33 @@
 		"UnsavedTabTitle": "Nie zapisana karta",
 		"UpdateCheckFailedMsg": "Wystąpił błąd podczas sprawdzania aktualizacji aplikacji.",
 		"UpdateCheckFailedTitle": "Błąd sprawdzania aktualizacji",
-		"UpdateHasBeenReleased": "została wydana aktualizacja"
+		"TerminalWindowTitle": "Terminal",
+		"OutputFrom": "Wynik z",
+		"OutputWindowTitle": "Wynik",
+		"MenuView": "Widok",
+		"MenuViewOuptutWindow": "Okno wyniku",
+		"MenuViewTerminalWindow": "Okno terminala",
+		"MenuViewToolBar": "Pasek narzędzi",
+		"MenuViewStatusBar": "Pasek stanu",
+		"MenuViewEditorTheme": "Motyw edytora",
+		"MenuViewEditorThemeLight": "Jasny",
+		"MenuViewEditorThemeDark": "Ciemny",
+		"WordWrap": "Zawijanie wiersza",
+		"MenuDebug": "Debugowanie",
+		"DebugAbortByUser": "Debugowanie pliku wykonywalnego zostało przerwane przez użytkownika.",
+		"DebugFailedDueToIntegrity": "Debugowanie pliku wykonywalnego zostało przerwane z powodu błędu integralności.",
+		"DebugFailedDueToSubProcess": "Debugowanie pliku wykonywalnego zakończyło się niepowodzeniem z powodu błędu w podprocesie.",
+		"DebugExecutable": "Debugowanie pliku wykonywalnego.",
+		"DebugSkipped": "Debugowanie pliku wykonywalnego zostało pominięte.",
+		"DebugSucessful": "Debugowanie pliku wykonywalnego zakończyło się pomyślnie.",
+		"DebugFailed": "Proces debugowania pliku wykonywalnego napotkał błąd.",
+		"MenuBarDebugText": "Debuguj plik wykonywalny",
+		"TerminalWelcomeMsg": "Wprowadź poprawną komendę Turbo i naciśnij [ENTER], aby ją wykonać.\nUWAGA: Katalog roboczy dla nowego pliku jest ustawiony na katalog instalacji, dla zapisanych plików będzie to lokalizacja pliku. Katalog roboczy nie może być zmieniany i jest ograniczony do katalogu i jego podkatalogów.",
+		"TargetFile": "Plik docelowy",
+		"UpdateMessage": "Nowa wersja GUI Turbo Assembler jest dostępna do pobrania.",
+		"CurrentVersion": "Obecna wersja",
+		"NewVersion": "Nowa wersja",
+		"UpdateConfirmation": "Czy chcesz przejść do strony pobierania?"
 	},
 	"Preference": {
 		"Advance": "Erweitert",
@@ -380,7 +423,12 @@
 		"UnsupportedFont": "Schriftart wird nicht unterstützt",
 		"UnsupportedFontMsg": "GUI Turbo Assembler unterstützt die ausgewählte Schriftart nicht",
 		"UseCustomLauncherToRunExe": "Verwenden Sie einen benutzerdefinierten Launcher, um die erstellte ausführbare Datei auszuführen",
-		"ViewArgs": "Argumente anzeigen"
+		"ViewArgs": "Argumente anzeigen",
+		"SelectEditorFontSize": "Wybierz rozmiar czcionki edytora",
+		"SelectEditorTheme": "Wybierz motyw edytora",
+		"SelectIdeTheme": "Wybierz motyw IDE",
+		"CustomizeIde": "Dostosuj IDE",
+		"CustomizeEditor": "Dostosuj edytor"
 	},
 	"Others": {
 		"About": "O programie",
@@ -404,7 +452,8 @@
 		"TurboAssembler": "Turbo Assembler",
 		"TurboLinker": "Turbo Linker",
 		"WelcomeTo": "Witaj w",
-		"Yes": "Tak"
+		"Yes": "Tak",
+		"VisitGithub": "Odwiedź stronę GitHub"
 	},
 	"RecentFile": {
 		"DeleteConfirmation": "Potwierdzenie usunięcia",

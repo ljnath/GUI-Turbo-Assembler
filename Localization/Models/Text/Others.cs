@@ -42,6 +42,7 @@ namespace GUITurboAssembler.Localization.Models.Text
         public string ThankYou { get; set; } = "Thank You";
         public string TurboAssembler { get; set; } = "Turbo Assembler";
         public string TurboLinker { get; set; } = "Turbo Linker";
+        public string VisitGithub { get; set; } = "Visit GitHub page";
         public string WelcomeTo { get; set; } = "Welcome to";
         public string Yes { get; set; } = "Yes";
     }

@@ -7,7 +7,7 @@
 		"Title": "Voir Journal des modifications",
 		"Version": "Version",
 		"Change100": [
-			"Version 1.0.0 | Moment de la génération: 9 mars 2013, 16:39:20 Hrs.",
+			"Version 1.0 | Moment de la génération: 9 mars 2013, 16:39:20 Hrs.",
 			"Première version",
 			"Ajouter un éditeur de base avec des fonctionnalités pour ouvrir et enregistrer des fichiers",
 			"Ajout du support pour stocker les préférences de réglage et utilisateur localement",
@@ -17,7 +17,7 @@
 			"Empêche l'utilisateur d'ouverture et enregistrement de nom de fichier dont le nom contient des espaces\n"
 		],
 		"Change110": [
-			"Version 1.1.0 | Moment de la génération : 23 mars 2013, 12:45:28 heures.",
+			"Version 1.1 | Moment de la génération : 23 mars 2013, 12:45:28 heures.",
 			"Ajout du support pour l'ouverture des arguments personnalisés pour l'assembleur et l'éditeur de liens",
 			"Ajout d'une option pour encapsuler le texte dans l'éditeur de code",
 			"Ajout d'une option pour afficher les statistiques",
@@ -33,12 +33,12 @@
 			"Notification supplémentaire pour les fichiers non sauvegardés"
 		],
 		"Change12": [
-			"Version 1.2.0 | Moment de la génération : 23 mars 2013, 13:52:42 heures.",
+			"Version 1.2 | Moment de la génération : 23 mars 2013, 13:52:42 heures.",
 			"Empêche l'utilisateur de compilation, reliant, exécuter les exécutables avec un fichier non enregistré",
 			"Ajout du support pour afficher les journaux des modifications"
 		],
 		"Change130": [
-			"Version 1.3.0 | Moment de la génération : 25 mars 2013, 11:10:17 heures.",
+			"Version 1.3 | Moment de la génération : 25 mars 2013, 11:10:17 heures.",
 			"Une vérification orthographique",
 			"Forme de « Vue change log » redessinée",
 			"Redessinée de la fenêtre principale",
@@ -52,7 +52,7 @@
 			"Code optimisé\n"
 		],
 		"Change200": [
-			"Version 2.0.0 | Moment de la génération: 6 septembre 2013, 20:41:38 heures.",
+			"Version 2.0 | Moment de la génération: 6 septembre 2013, 20:41:38 heures.",
 			"Bug d'affichage de la forme fixe",
 			"Correction bug d'affichage multiples 'enregistrer boîte de dialogue'",
 			"Correction d'un bug relie à une notification non enregistrée au premier lancement",
@@ -87,7 +87,7 @@
 			"Assistance supplémentaire"
 		],
 		"Change210": [
-			"Version 2.1.0 | Moment de la génération : 10 octobre 2013, 04:42:37 heures.",
+			"Version 2.1 | Moment de la génération : 10 octobre 2013, 04:42:37 heures.",
 			"Affichage de message buggy fixe à la compilation, de générer et d'exécuter des temps",
 			"Correction d'un bug message et étiquettes.",
 			"Correction d'un bug rencontré alors qu'il tentait de lancer un exécutable manquant",
@@ -119,7 +119,7 @@
 			"Fonctionnalité améliorée de Print & Print Preview"
 		],
 		"Change220": [
-			"Version 2.2.0 | Moment de la génération : 31 janvier 2014, 20:38:44 heures.",
+			"Version 2.2 | Moment de la génération : 31 janvier 2014, 20:38:44 heures.",
 			"Correction d'un bug lié au CLUF contourner comme dans la version précédente.",
 			"Raccourci modifié pour nouvel onglet.",
 			"Application modulaire à l'aide de Dynamic Data Library.",
@@ -130,12 +130,12 @@
 			"Console journal désactivé par défaut."
 		],
 		"Change230": [
-			"Version 2.3.0 | Moment de la génération: 2 juillet 2014, 21:46:29 heures.",
+			"Version 2.3 | Moment de la génération: 2 juillet 2014, 21:46:29 heures.",
 			"Supprimé le lien de page d'accueil de société.",
 			"Édition de lien de page d'accueil de développeur."
 		],
 		"Change300": [
-			"Version 3.0.0 | Moment de la génération : 14 mars 2015, 18:20:55 heures.",
+			"Version 3.0 | Moment de la génération : 14 mars 2015, 18:20:55 heures.",
 			"Ajout du support complet pour machine 64-bit ; vient avec les binaires 64 bits.",
 			"Ajout du support 64-bit pour Borland Turbo assembleur et Turbo Linker utilisant DOSBox.",
 			"Ajouté fonctionnalité multilingue.",
@@ -157,7 +157,7 @@
 			"Ajout du support pour gérer le fichier ASM avec macro dans la version 64-bit"
 		],
 		"Change400": [
-			"Version 4.0.0 | Construit le : 18 septembre 2023, 00:04:02 heures..",
+			"Version 4.0 | Construit le : 18 septembre 2023, 00:04:02 heures..",
 			"Prise en charge du texte localisé pour l'allemand et le polonais.",
 			"Ajout de la possibilité de restaurer tous les paramètres endommagés en un seul clic.",
 			"Ajout de l'option 'Ouvrir le dossier contenant' pour les fichiers source enregistrés dans le menu 'Fichier'.",
@@ -189,6 +189,23 @@
 			"Passage de la couche de persistance du Registre Windows à un fichier de configuration dans le répertoire de l'application de l'utilisateur.",
 			"Passage à la nouvelle et améliorée Assembly Launcher 2.0.",
 			"Passage à la nouvelle et améliorée guiTasmX64 basée sur DOSBox 0.74-3, avec des capacités d'exécution silencieuse."
+		],
+		"Change500": [
+			"Version 5.0 | Construite le : 19 octobre 2023, 02:27:15 heures",
+			"Ajout de la prise en charge de l'ancrage des éditeurs de code et d'autres onglets pour une efficacité maximale du développeur",
+			"Ajout d'un terminal permettant aux utilisateurs de saisir et d'exécuter directement des commandes dans l'IDE",
+			"Ajout de la prise en charge du débogage du code à l'aide de Turbo Debugger",
+			"Ajout de la prise en charge de la personnalisation du thème basé sur Visual Studio 2015 dans l'IDE. Les thèmes pris en charge incluent Blue, Dark et Light",
+			"Ajout de la prise en charge des macros",
+			"Ajout de la prise en charge de l'ouverture et de la modification des fichiers .INC",
+			"Ajout de la prise en charge de la personnalisation du mode de l'éditeur de code pour Dark et Light.",
+			"Ajout de la prise en charge de la préservation de la disposition ancrée",
+			"Amélioration de la notification de mise à jour pour demander à l'utilisateur avant de naviguer vers la page de téléchargement",
+			"Suppression de la prise en charge de la famille de polices et de la personnalisation des couleurs de l'éditeur",
+			"Suppression de la fonctionnalité 'Afficher les informations d'utilisation'",
+			"Suppression de la fonctionnalité d'Assemblage personnalisé et de Compilation personnalisée",
+			"Refonte de la section À propos",
+			"Mise à jour des icônes et des polices"
 		]
 	},
 	"IDE": {
@@ -343,7 +360,33 @@
 		"UnsavedTabTitle": "Onglet non sauvegardé",
 		"UpdateCheckFailedMsg": "Une erreur s'est produite lors de la vérification des mises à jour de l'application.",
 		"UpdateCheckFailedTitle": "Erreur de vérification des mises à jour",
-		"UpdateHasBeenReleased": "a été publiée"
+		"TerminalWindowTitle": "Terminal",
+		"OutputFrom": "Sortie de",
+		"OutputWindowTitle": "Sortie",
+		"MenuView": "Affichage",
+		"MenuViewOuptutWindow": "Fenêtre de sortie",
+		"MenuViewTerminalWindow": "Fenêtre du terminal",
+		"MenuViewToolBar": "Barre d'outils",
+		"MenuViewStatusBar": "Barre d'état",
+		"MenuViewEditorTheme": "Thème de l'éditeur",
+		"MenuViewEditorThemeLight": "Clair",
+		"MenuViewEditorThemeDark": "Sombre",
+		"WordWrap": "Retour à la ligne",
+		"MenuDebug": "Débogage",
+		"DebugAbortByUser": "Le débogage du fichier exécutable a été interrompu par l'utilisateur.",
+		"DebugFailedDueToIntegrity": "Le débogage du fichier exécutable a été interrompu en raison d'un échec de l'intégrité.",
+		"DebugFailedDueToSubProcess": "Le débogage du fichier exécutable a échoué en raison d'un échec du sous-processus.",
+		"DebugExecutable": "Débogage du fichier exécutable.",
+		"DebugSkipped": "Le débogage du fichier exécutable a été sauté.",
+		"DebugSucessful": "Le débogage du fichier exécutable s'est terminé avec succès.",
+		"DebugFailed": "Le processus de débogage du fichier exécutable a rencontré un échec.",
+		"MenuBarDebugText": "Déboguer le fichier exécutable",
+		"TerminalWelcomeMsg": "Saisissez une commande Turbo valide et appuyez sur [ENTRÉE] pour l'exécuter. \nREMARQUE : Le répertoire de travail pour un nouveau fichier est défini sur le répertoire d'installation. Pour les fichiers enregistrés, ce sera l'emplacement du fichier. Le répertoire de travail ne peut pas être modifié et est limité au répertoire et à ses sous-répertoires.",
+		"TargetFile": "Fichier cible",
+		"UpdateMessage": "Une nouvelle version de GUI Turbo Assembler est disponible en téléchargement.",
+		"CurrentVersion": "Version actuelle",
+		"NewVersion": "Nouvelle version",
+		"UpdateConfirmation": "Souhaitez-vous accéder à la page de téléchargement ?"
 	},
 	"Preference": {
 		"Advance": "Avancé",
@@ -381,7 +424,12 @@
 		"UnsupportedFont": "Police de caractères non prise en charge",
 		"UnsupportedFontMsg": "GUI Turbo Assembler ne prend pas en charge la police de caractères choisie",
 		"UpdateMessageTitle": "est disponible",
-		"ViewArgs": "Voir les arguments"
+		"ViewArgs": "Voir les arguments",
+		"SelectEditorFontSize": "Sélectionnez la taille de police de l'éditeur",
+		"SelectEditorTheme": "Sélectionnez le thème de l'éditeur",
+		"SelectIdeTheme": "Sélectionnez le thème de l'IDE",
+		"CustomizeIde": "Personnalisez l'IDE",
+		"CustomizeEditor": "Personnalisez l'éditeur"
 	},
 	"Others": {
 		"About": "À propos",
@@ -405,7 +453,8 @@
 		"TurboAssembler": "Turbo Assembler",
 		"TurboLinker": "Turbo Linker",
 		"WelcomeTo": "Bienvenue sur",
-		"Yes": "Oui"
+		"Yes": "Oui",
+		"VisitGithub": "Visiter la page GitHub"
 	},
 	"RecentFile": {
 		"DeleteConfirmation": "Confirmation de suppression",

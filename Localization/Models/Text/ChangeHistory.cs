@@ -24,7 +24,7 @@ namespace GUITurboAssembler.Localization.Models.Text
     {
         private static string[] change100Texts = new string[]
         {
-            "Version 1.0.0 | Built on : 09th March 2013, 16:39:20 Hrs.",
+            "Version 1.0 | Built on : 09th March 2013, 16:39:20 Hrs.",
             "First release",
             "Added a basic editor with features to open and save files",
             "Added support to store setting and user preferences locally",
@@ -35,7 +35,7 @@ namespace GUITurboAssembler.Localization.Models.Text
         };
 
         private static string[] change110Texts = new string[] {
-            "Version 1.1.0 | Built on : 23rd March 2013 , 12:45:28 Hrs.",
+            "Version 1.1 | Built on : 23rd March 2013 , 12:45:28 Hrs.",
             "Added support for entering custom arguments  for assembler and linker",
             "Added option to wrap text in the code-editor",
             "Added option to display statistics",
@@ -53,14 +53,14 @@ namespace GUITurboAssembler.Localization.Models.Text
 
         private static string[] change120Texts = new string[]
         {
-            "Version 1.2.0 | Built on : 23rd March 2013 , 13:52:42 Hrs.",
+            "Version 1.2 | Built on : 23rd March 2013 , 13:52:42 Hrs.",
             "Prevented user from compiling, linking, running executables with an un-saved file",
             "Added support to view change logs"
         };
 
         private static string[] change130Texts = new string[]
         {
-            "Version 1.3.0 | Built on : 25th March 2013 , 11:10:17 Hrs.",
+            "Version 1.3 | Built on : 25th March 2013 , 11:10:17 Hrs.",
             "Spell-checked",
             "Redesigned 'View change log' form",
             "Redesigned the main window",
@@ -76,7 +76,7 @@ namespace GUITurboAssembler.Localization.Models.Text
 
         private static string[] change200Texts = new string[]
         {
-            "Version 2.0.0 | Built on : 06th September 2013, 20:41:38 Hrs.",
+            "Version 2.0 | Built on : 06th September 2013, 20:41:38 Hrs.",
             "Fixed form display bug",
             "Fixed multiple 'save dialog' display bug",
             "Fixed bug related to unsaved notification at first launch",
@@ -113,7 +113,7 @@ namespace GUITurboAssembler.Localization.Models.Text
 
         private static string[] change210Texts = new string[]
         {
-            "Version 2.1.0 | Built on : 10th October 2013, 04:42:37 Hrs.",
+            "Version 2.1 | Built on : 10th October 2013, 04:42:37 Hrs.",
             "Fixed buggy message displaying at compilation, build and run time",
             "Fixed bug message and labels.",
             "Fixed bug encountered  while trying to launch a missing executable",
@@ -147,7 +147,7 @@ namespace GUITurboAssembler.Localization.Models.Text
 
         private static string[] change220Texts = new string[]
         {
-            "Version 2.2.0 | Built on : 31st January 2014, 20:38:44 Hrs.",
+            "Version 2.2 | Built on : 31st January 2014, 20:38:44 Hrs.",
             "Fixed bug related to EULA bypass as in previous version.",
             "Changed shortcut for new tab.", "Modularised application using Dynamic Data Library.",
             "Added OS Detection feature to warn 64-bit users about incompatibility of Turbo Assembler and Linker beforehand.",
@@ -159,14 +159,14 @@ namespace GUITurboAssembler.Localization.Models.Text
 
         private static string[] change230Texts = new string[]
         {
-            "Version 2.3.0 | Built on : 02nd July 2014, 21:46:29 Hrs.",
+            "Version 2.3 | Built on : 02nd July 2014, 21:46:29 Hrs.",
             "Removed company homepage link.",
             "Edited developer homepage link."
         };
 
         private static string[] change300Texts = new string[]
         {
-            "Version 3.0.0 | Built on : 14th March 2015, 18:20:55 Hrs.",
+            "Version 3.0 | Built on : 14th March 2015, 18:20:55 Hrs.",
             "Added full support for 64-bit machine; comes with 64-bit binaries.",
             "Added 64-bit support for Borland Turbo Assembler and Turbo Linker using DOSBox.",
             "Added multilingual feature.",
@@ -192,7 +192,7 @@ namespace GUITurboAssembler.Localization.Models.Text
 
         private static string[] change400Texts = new string[]
         {
-            "Version 4.0.0 | Built on : 16th September 2023, 22:06:34 Hrs.",
+            "Version 4.0 | Built on : 18th September 2023, 00:04:02 Hrs.",
             "Added localized text support for German and Polish.",
             "Added support for restoring any broken settings with a single click.",
             "Added support to run custom assemble and build commands for advance user",
@@ -227,6 +227,25 @@ namespace GUITurboAssembler.Localization.Models.Text
             "Upgraded to the new and improved guiTasmX64 based on DOSBox 0.74-3, featuring silent execution capabilities."
         };
 
+        private static string[] change500Texts = new string[]
+        {
+            "Version 5.0 | Built on : 19th October 2023, 02:27:15 Hrs.",
+            "Added support for docking code editors and other tabs for maximum developer efficiency",
+            "Added Terminal to allow users to directly type and run commands in the IDE",
+            "Added support for debugging code using Turbo Debugger",
+            "Added support to customize the Visual Studio 2015-based theme in the IDE. Supported themes include Blue, Dark, and Light",
+            "Added support for macros",
+            "Added support to open and edit .INC file",
+            "Added support to customize the code editor mode for Dark and Light.",
+            "Added support to preserve the docked layout",
+            "Enhanced the update notification to prompt the user before navigating to the download page",
+            "Removed support for Font Family and editor color customization",
+            "Removed the 'View Usage Info' functionality",
+            "Removed Custom Assemble and Custom Build feature",
+            "Revamped the About section",
+            "Updated icons and fonts"
+        };
+
         public string Title { get; set; } = "Change History";
         public string Version { get; set; } = "Version";
         public string[] Change100 { get; set; } = change100Texts;
@@ -240,5 +259,6 @@ namespace GUITurboAssembler.Localization.Models.Text
         public string[] Change300 { get; set; } = change300Texts;
         public string[] Change301 { get; set; } = change301Texts;
         public string[] Change400 { get; set; } = change400Texts;
+        public string[] Change500 { get; set; } = change500Texts;
     }
 }
