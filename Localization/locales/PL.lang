@@ -206,6 +206,19 @@
 			"Usunięto niestandardową funkcję assemblowania i budowania",
 			"Zmodernizowano sekcję O programie",
 			"Zaktualizowano ikony i czcionki"
+		],
+		"Change510": [
+			"Wersja 5.1 | Zbudowano: 23 listopada 2023, 00:28:03 godz.",
+			"Dodano obsługę Turbo 32-bit za pomocą TASM32, TLINK32 i TD32",
+			"Dodano obsługę przełączania między Turbo 16-bit a 32-bit za pomocą menu podręcznego na pasku stanu",
+			"Dodano obsługę powszechnie używanych skrótów klawiszowych w terminalu",
+			"Optymalizacja kodu dla lepszej wydajności",
+			"Rozszerzono bibliotekę przykładów",
+			"Naprawiono problemy z uprawnieniami do katalogu podczas instalacji",
+			"Wprowadzono obsługę 'Historii poleceń' w terminalu",
+			"Do sekcji 'O nas' dodano link 'Kup mi kawę' dla dotacji",
+			"Dołączono oryginalne dokumenty Turbo dla pełnej referencji i dokumentacji",
+			"Zmieniono układ dialogu preferencji"
 		]
 	},
 	"IDE": {
@@ -428,7 +441,9 @@
 		"SelectEditorTheme": "Wybierz motyw edytora",
 		"SelectIdeTheme": "Wybierz motyw IDE",
 		"CustomizeIde": "Dostosuj IDE",
-		"CustomizeEditor": "Dostosuj edytor"
+		"CustomizeEditor": "Dostosuj edytor",
+		"SelectTurboArchitecture": "Wybierz tryb Turbo Assembler i Linker",
+		"EnableEditorDarkMode": "Włącz tryb ciemny dla edytora kodu"
 	},
 	"Others": {
 		"About": "O programie",

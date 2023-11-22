@@ -1,5 +1,5 @@
 ﻿/**
- * GUI Turbo Assembler - an essential Integrated Development Environment for Assembly language with TASM & TLINK
+ * GUI Turbo Assembler - an essential 32-64bit localized IDE for Assembly Language with TASM, TASM32, TLINK, TLINK32, TD and TD32
  * Copyright (C) 2013-2023 Lakhya's Innovation Inc., Lakhya Jyoti Nath (ljnath)
  * 
  * This program is free software: you can redistribute it and/or modify
@@ -24,7 +24,7 @@ using System.Runtime.Serialization;
 namespace GUITurboAssembler.Localization.Handlers.Exceptions
 {
     [Serializable]
-    class LocalizationException : Exception
+    public class LocalizationException : Exception
     {
 
         public LocalizationException() : base() { }

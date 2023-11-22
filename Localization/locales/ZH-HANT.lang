@@ -207,6 +207,19 @@
 			"刪除自訂組合和自訂建置功能",
 			"更新了關於本程式部分",
 			"更新了圖示和字體"
+		],
+		"Change510": [
+			"版本 5.1 | 建置於: 2023年11月23日, 00:28:03 時",
+			"增加對 Turbo 32 位的支援，使用 TASM32、TLINK32 和 TD32",
+			"在狀態列中新增通過彈出選單切換 Turbo 16 位和 32 位的支援",
+			"在終端中新增支援常用的鍵盤快捷鍵",
+			"為提高性能進行代碼優化",
+			"擴展示例庫",
+			"解決安裝過程中的目錄權限問題",
+			"在終端中引入 '命令歷史' 支援",
+			"在 '關於' 部分加入 'BuyMeACoffee' 鏈接以進行捐款",
+			"包括原始的 Turbo 文檔，以進行全面的參考和文檔",
+			"重新設計首選對話框"
 		]
 	},
 	"IDE": {
@@ -430,7 +443,9 @@
 		"SelectEditorTheme": "選擇編輯器主題",
 		"SelectIdeTheme": "選擇 IDE 主題",
 		"CustomizeIde": "自訂 IDE",
-		"CustomizeEditor": "自訂編輯器"
+		"CustomizeEditor": "自訂編輯器",
+		"SelectTurboArchitecture": "選擇 Turbo Assembler 和 Linker 模式",
+		"EnableEditorDarkMode": "啟用代碼編輯器的深色模式"
 	},
 	"Others": {
 		"About": "關於",

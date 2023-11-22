@@ -207,6 +207,19 @@
 			"Removed Custom Assemble and Custom Build feature",
 			"Revamped the About section",
 			"Updated icons and fonts"
+		],
+		"Change510": [
+			"Version 5.1 | Built on : 23rd November 2023, 00:28:03 Hrs.",
+			"Added support for Turbo 32-bit using TASM32, TLINK32, and TD32",
+			"Added support to switch between Turbo 16-bit and 32-bit via pop-up menu in the status bar",
+			"Added support for commonly used keyboard shortcuts in the Terminal",
+			"Code optimization for improved performance",
+			"Expanded the examples library",
+			"Fixed directory permission issues during installation",
+			"Introduced 'Command History' support in the Terminal",
+			"Incorporated a BuyMeACoffee link in the About section to make donations",
+			"Included original Turbo Docs for comprehensive reference and documentation",
+			"Re-designed preference dialog"
 		]
 	},
 	"IDE": {
@@ -429,7 +442,9 @@
 		"SelectEditorTheme": "Select editor theme",
 		"SelectIdeTheme": "Select theme",
 		"CustomizeIde": "Customize IDE",
-		"CustomizeEditor": "Customize Editor"
+		"CustomizeEditor": "Customize Editor",
+		"SelectTurboArchitecture": "Select Turbo assembler and linker mode",
+		"EnableEditorDarkMode": "Enable dark mode for the code editor"
 	},
 	"Others": {
 		"About": "About",

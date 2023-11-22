@@ -195,3 +195,35 @@
     - Transitioned to the new and improved Assembly Launcher 2.0.
     - Upgraded the previously used version of FastColoredTextBox to the latest forked version for enhanced performance.
     - Upgraded to the new and improved guiTasmX64 based on DOSBox 0.74-3, featuring silent execution capabilities.
+
+## Version 5.0 (Build time: 19th October 2023, 02:27:15 Hrs.)
+**Compatible with upgrade and fresh install**
+
+    - Version 5.0 | Built on : 19th October 2023, 02:27:15 Hrs.
+    - Added support for docking code editors and other tabs for maximum developer efficiency
+    - Added Terminal to allow users to directly type and run commands in the IDE
+    - Added support for debugging code using Turbo Debugger
+    - Added support to customize the Visual Studio 2015-based theme in the IDE. Supported themes include Blue, Dark, and Light
+    - Added support for macros
+    - Added support to open and edit .INC file
+    - Added support to customize the code editor mode for Dark and Light.
+    - Added support to preserve the docked layout
+    - Enhanced the update notification to prompt the user before navigating to the download page
+    - Removed support for Font Family and editor color customization
+    - Removed the 'View Usage Info' functionality
+    - Removed Custom Assemble and Custom Build feature
+    - Revamped the About section
+    - Updated icons and fonts
+
+## Version 5.1 (Build time : 23rd November 2023, 00:28:03 Hrs.)
+**Compatible with upgrade and fresh install**
+
+    - Added support for Turbo 32-bit using TASM32, TLINK32, and TD32, expanding development possibilities
+    - Added support for commonly used keyboard shortcuts in the Terminal for an intuitive user experience
+    - Code optimization for improved performance
+    - Expanded the examples library
+    - Fixed directory permission issues during installation
+    - Introduced 'Command History' support in the Terminal
+    - Incorporated a BuyMeACoffee link in the About section to make donations
+    - Included original Turbo Docs for comprehensive reference and documentation
+    - Re-designed preference dialog

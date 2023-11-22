@@ -1,5 +1,5 @@
 ﻿/**
- * GUI Turbo Assembler - an essential Integrated Development Environment for Assembly language with TASM & TLINK
+ * GUI Turbo Assembler - an essential 32-64bit localized IDE for Assembly Language with TASM, TASM32, TLINK, TLINK32, TD and TD32
  * Copyright (C) 2013-2023 Lakhya's Innovation Inc., Lakhya Jyoti Nath (ljnath)
  * 
  * This program is free software: you can redistribute it and/or modify
@@ -34,6 +34,7 @@ namespace GUITurboAssembler.Localization.Models.Text
         public string EnableAutoLineIndentInEditor { get; set; } = "Enable automatic line indentation in the code editor";
         public string EnableAutomaticUpdate { get; set; } = "Enable automatic update checks on startup";
         public string EnableAutoScrollInLogConsole { get; set; } = "Enable automatic scrolling in the ouptut window";
+        public string EnableEditorDarkMode { get; set; } = "Enable dark mode in the code editor";
         public string EnableTextWrappingInEditor { get; set; } = "Enable text wrapping in the code editor";
         public string LaunchInMaximixedMode { get; set; } = "Launch IDE in maximized mode";
         public string RestoreIdePosAndSize { get; set; } = "Restore the IDE's position and size upon startup";
@@ -42,8 +43,9 @@ namespace GUITurboAssembler.Localization.Models.Text
         public string SelectEditorTheme { get; set; } = "Select editor theme";
         public string SelectIdeLanguage { get; set; } = "Select language";
         public string SelectIdeTheme { get; set; } = "Select theme";
+        public string SelectTurboArchitecture { get; set; } = "Select Turbo assembler and linker mode";
         public string Title { get; set; } = "Preferences";
         public string UseCustomLauncherToRunExe { get; set; } = "Utilize custom launcher to run the assembled executable file";
-        public string ViewArgs { get; set; } = "View arguments";
+        public string ViewArgs { get; set; } = "View Arguments";
     }
 }

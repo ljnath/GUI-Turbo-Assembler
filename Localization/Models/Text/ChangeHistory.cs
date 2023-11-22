@@ -1,5 +1,5 @@
 ﻿/**
- * GUI Turbo Assembler - an essential Integrated Development Environment for Assembly language with TASM & TLINK
+ * GUI Turbo Assembler - an essential 32-64bit localized IDE for Assembly Language with TASM, TASM32, TLINK, TLINK32, TD and TD32
  * Copyright (C) 2013-2023 Lakhya's Innovation Inc., Lakhya Jyoti Nath (ljnath)
  * 
  * This program is free software: you can redistribute it and/or modify
@@ -246,6 +246,21 @@ namespace GUITurboAssembler.Localization.Models.Text
             "Updated icons and fonts"
         };
 
+        private static string[] change510Texts = new string[]
+        {
+            "Version 5.1 | Built on : 22nd November 2023, 00:28:03 Hrs.",
+            "Added support for Turbo 32-bit using TASM32, TLINK32, and TD32",
+            "Added support to switch between Turbo 16-bit and 32-bit via pop-up menu in the status bar",
+            "Added support for commonly used keyboard shortcuts in the Terminal",
+            "Code optimization for improved performance",
+            "Expanded the examples library",
+            "Fixed directory permission issues during installation",
+            "Introduced 'Command History' support in the Terminal",
+            "Incorporated a BuyMeACoffee link in the About section to make donations",
+            "Included original Turbo Docs for comprehensive reference and documentation",
+            "Re-designed preference dialog"
+        };
+
         public string Title { get; set; } = "Change History";
         public string Version { get; set; } = "Version";
         public string[] Change100 { get; set; } = change100Texts;
@@ -260,5 +275,6 @@ namespace GUITurboAssembler.Localization.Models.Text
         public string[] Change301 { get; set; } = change301Texts;
         public string[] Change400 { get; set; } = change400Texts;
         public string[] Change500 { get; set; } = change500Texts;
+        public string[] Change510 { get; set; } = change510Texts;
     }
 }

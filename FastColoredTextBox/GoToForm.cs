@@ -19,6 +19,7 @@ namespace FastColoredTextBoxNS
         {
             currentLocalizedText = localizedText;
             InitializeComponent();
+            this.MaximumSize = this.MinimumSize = this.Size;
 
             this.Text = currentLocalizedText.IDE.GoToLine;
             btnOk.Text = currentLocalizedText.Others.Ok;

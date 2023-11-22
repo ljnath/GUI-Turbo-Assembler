@@ -1,5 +1,5 @@
 ﻿/**
- * GUI Turbo Assembler - an essential Integrated Development Environment for Assembly language with TASM & TLINK
+ * GUI Turbo Assembler - an essential 32-64bit localized IDE for Assembly Language with TASM, TASM32, TLINK, TLINK32, TD and TD32
  * Copyright (C) 2013-2023 Lakhya's Innovation Inc., Lakhya Jyoti Nath (ljnath)
  * 
  * This program is free software: you can redistribute it and/or modify
@@ -34,14 +34,16 @@ namespace GUITurboAssembler.Localization
 
         public Locale[] GetAvailableLanguages()
         {
-            List<Locale> availableLanaguges = new List<Locale>();
-            availableLanaguges.Add(new Locale("DE", "Deutsch"));
-            availableLanaguges.Add(new Locale("EN", "English"));
-            availableLanaguges.Add(new Locale("FR", "Français"));
-            availableLanaguges.Add(new Locale("HI", "हिंदी"));
-            availableLanaguges.Add(new Locale("PL", "Polski"));
-            availableLanaguges.Add(new Locale("RU", "русский"));
-            availableLanaguges.Add(new Locale("ZH-HANT", "中國傳統的"));
+            List<Locale> availableLanaguges = new List<Locale>
+            {
+                new Locale("DE", "Deutsch"),
+                new Locale("EN", "English"),
+                new Locale("FR", "Français"),
+                new Locale("HI", "हिंदी"),
+                new Locale("PL", "Polski"),
+                new Locale("RU", "русский"),
+                new Locale("ZH-HANT", "中國傳統的")
+            };
 
             // scan for new language files
             List<Locale> newLanagues = new LocaleFileHandler().ScanForNewLanguages();

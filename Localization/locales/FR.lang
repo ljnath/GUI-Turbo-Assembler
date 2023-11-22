@@ -206,6 +206,19 @@
 			"Suppression de la fonctionnalité d'Assemblage personnalisé et de Compilation personnalisée",
 			"Refonte de la section À propos",
 			"Mise à jour des icônes et des polices"
+		],
+		"Change510": [
+			"Version 5.1 | Construit le : 23 novembre 2023, 00:28:03 heures",
+			"Ajout de la prise en charge de Turbo 32 bits à l'aide de TASM32, TLINK32 et TD32",
+			"Ajout de la possibilité de basculer entre Turbo 16 bits et 32 bits via un menu contextuel dans la barre d'état",
+			"Ajout de la prise en charge des raccourcis clavier couramment utilisés dans le terminal",
+			"Optimisation du code pour des performances améliorées",
+			"Extension de la bibliothèque d'exemples",
+			"Correction des problèmes d'autorisation de répertoire lors de l'installation",
+			"Introduction du support de l''historique des commandes' dans le terminal",
+			"Incorporation d'un lien 'Achète-moi un café' dans la section 'À propos' pour les dons",
+			"Inclusion des documents Turbo d'origine pour une référence et une documentation complètes",
+			"Refonte du dialogue de préférences"
 		]
 	},
 	"IDE": {
@@ -429,7 +442,9 @@
 		"SelectEditorTheme": "Sélectionnez le thème de l'éditeur",
 		"SelectIdeTheme": "Sélectionnez le thème de l'IDE",
 		"CustomizeIde": "Personnalisez l'IDE",
-		"CustomizeEditor": "Personnalisez l'éditeur"
+		"CustomizeEditor": "Personnalisez l'éditeur",
+		"SelectTurboArchitecture": "Sélectionnez le mode Turbo Assembler et Linker",
+		"EnableEditorDarkMode": "Activer le mode sombre pour l'éditeur de code"
 	},
 	"Others": {
 		"About": "À propos",

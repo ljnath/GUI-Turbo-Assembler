@@ -1,10 +1,10 @@
 # GUI Turbo Assembler
+An essential 32-64bit localized IDE for Assembly Language with TASM, TASM32, TLINK, TLINK32, TD and TD32
 
-### Version 5.0
+### Version 5.1
 Author : Lakhya Jyoti Nath (ljnath)<br>
-First build date : 01st March 2013 @ 17:30 Hrs<br>
-First build completion date : 09th March 2013 @ 15:39:56 Hrs.<br>
-Last release date : 19th September 2023, 02:27:15 Hrs.<br>
+First release : 01st March 2013,  17:30:00 Hrs.<br>
+Last release : 23rd November 2023, 00:28:03 Hrs.<br>
 Email : ljnath@ljnath.com<br>
 Website : https://ljnath.com</br>
 
@@ -15,13 +15,14 @@ Website : https://ljnath.com</br>
 
 ## Introduction
 
-GUI Turbo Assembler is an essential IDE for assembly language programming. It includes Borland Turbo Assembler (TASM), Turbo Linker, Turbo Debugger and DOSBox, making it a comprehensive solution for assembly development in both x86 and x64 environments.
+GUI Turbo Assembler is an essential IDE for assembly language programming. It includes Borland Turbo Assembler (TASM), Turbo Linker (TLINK), Turbo Debugger (TD) and DOSBox, making it a comprehensive solution for assembly development in both x86 and x64 environments. Both 16-bit and 32-bit mode of Turbo Assembler (TASM32), Linker (TLINK32) and Debugger (TD32) are supported.
 
 GUI Turbo Assembler provides a rich set of features, encompassing fundamental file operations and advanced capabilities such as line numbering, syntax highlighting, code folding, docking, and theme personalization. The interface is highly adaptable, empowering users to modify the environment and configure default settings for Borland Turbo Assembler and Turbo Linker.
 
 GUI Turbo Assembler supports localization in seven different languages and enables users to create and utilize their own localized files. Additionally, users have the opportunity to contribute those in the GitHub project. It also packs a terminal which allows user to take complete control of their programming.
 
-This package comes with Borland Turbo Assembler 4.1, Borland Turbo Linker 7.1, Borland Turbo Debugger 5.0 and DOSBox 0.74-3
+Included in this package are Borland Turbo Assembler 4.1, Borland Turbo Linker 7.1.30.1, and Borland Turbo Debugger 5.0 for Turbo 16-bit mode. For Turbo 32-bit mode, the package includes Borland Turbo Assembler 5.2, Borland Turbo Linker 1.6.71.0, and Borland Turbo Debugger 5.0 32-bit version.
+Additionally, the package comes equipped with DOSBox 0.74-3 for emulating 16-bit mode in x64 environments.
 
 GUI Turbo Assembler is developed using Microsoft .NET Framework 4.0 and you should have it pre-installed. Microsoft .NET Framework 4.0 can be downloadable from the link given below
 http://www.microsoft.com/en-in/download/details.aspx?id=17718

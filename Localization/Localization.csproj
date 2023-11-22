@@ -88,5 +88,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
+  <ItemGroup> 
+    <SonarQubeSetting Include="sonar.coverage.exclusions"> 
+      <Value>ZeroDepJson.cs</Value> 
+    </SonarQubeSetting> 
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

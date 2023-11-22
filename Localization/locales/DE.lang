@@ -207,6 +207,19 @@
 			"Entfernte benutzerdefinierte Assemblierungs- und Build-Funktion",
 			"Überarbeitung des Über uns-Bereichs",
 			"Aktualisierte Symbole und Schriftarten"
+		],
+		"Change510": [
+			"Version 5.1 | Erstellt am: 23. November 2023, 00:28:03 Uhr",
+			"Unterstützung für Turbo 32-Bit hinzugefügt mit TASM32, TLINK32 und TD32",
+			"Unterstützung zum Umschalten zwischen Turbo 16-Bit und 32-Bit über ein Popup-Menü in der Statusleiste hinzugefügt",
+			"Unterstützung für häufig verwendete Tastenkombinationen im Terminal hinzugefügt",
+			"Codeoptimierung für verbesserte Leistung",
+			"Erweiterung der Beispiele-Bibliothek",
+			"Fehler bei Berechtigungsproblemen während der Installation behoben",
+			"Einführung der Unterstützung für 'Befehlshistorie' im Terminal",
+			"Einfügung eines 'BuyMeACoffee'-Links im Abschnitt 'Über uns' für Spenden",
+			"Original Turbo Docs für umfassende Referenz und Dokumentation eingefügt",
+			"Neugestaltung des Einstellungsdialogs"
 		]
 	},
 	"IDE": {
@@ -429,7 +442,9 @@
 		"SelectEditorTheme": "Editor-Design auswählen",
 		"SelectIdeTheme": "IDE-Design auswählen",
 		"CustomizeIde": "IDE anpassen",
-		"CustomizeEditor": "Editor anpassen"
+		"CustomizeEditor": "Editor anpassen",
+		"SelectTurboArchitecture": "Turbo Assembler und Linker-Modus auswählen",
+		"EnableEditorDarkMode": "Dunklen Modus für den Code-Editor aktivieren"
 	},
 	"Others": {
 		"About": "Über",
