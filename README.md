@@ -1,7 +1,7 @@
 # GUI Turbo Assembler
 An essential 32-64bit localized IDE for Assembly Language with TASM, TASM32, TLINK, TLINK32, TD and TD32
 
-### Version 5.1
+### Version 5.2
 Author : Lakhya Jyoti Nath (ljnath)<br>
 First release : 01st March 2013,  17:30:00 Hrs.<br>
 Last release : 23rd November 2023, 00:28:03 Hrs.<br>
@@ -43,7 +43,7 @@ I would love to include the corrected as well as new version in the upcoming pub
 
 
 ## License
-Copyright © 2013-2023 [Lakhya's Innovation Inc.](https://github.com/ljnath/) under the [GPL-3.0 license](https://github.com/ljnath/GuiTurboAssembler/blob/main/LICENSE)
+Copyright © 2013-2024 [Lakhya's Innovation Inc.](https://github.com/ljnath/) under the [GPL-3.0 license](https://github.com/ljnath/GUI-Turbo-Assembler/blob/main/LICENSE)
 
 ## Give a Star! ⭐️
 
