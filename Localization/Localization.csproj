@@ -45,7 +45,7 @@
   <ItemGroup>
     <Compile Include="Common\Constants.cs" />
     <Compile Include="Handlers\Exceptions\LocalizationException.cs" />
-    <Compile Include="Handlers\LocaleFileHanlder.cs" />
+    <Compile Include="Handlers\LocaleFileHandler.cs" />
     <Compile Include="Models\Text\Locale.cs" />
     <Compile Include="Models\Text\ChangeHistory.cs" />
     <Compile Include="Models\Text\Others.cs" />
@@ -88,10 +88,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
-  <ItemGroup> 
-    <SonarQubeSetting Include="sonar.coverage.exclusions"> 
-      <Value>ZeroDepJson.cs</Value> 
-    </SonarQubeSetting> 
+  <ItemGroup>
+    <SonarQubeSetting Include="sonar.coverage.exclusions">
+      <Value>ZeroDepJson.cs</Value>
+    </SonarQubeSetting>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

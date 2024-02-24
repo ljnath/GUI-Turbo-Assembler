@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Lakhya's Innovation Inc.")]
 [assembly: AssemblyProduct("GUI Turbo Assembler")]
-[assembly: AssemblyCopyright("Copyright © 2013-2023 Lakhya's Innovation Inc.")]
+[assembly: AssemblyCopyright("Copyright © 2013-2024 Lakhya's Innovation Inc.")]
 [assembly: AssemblyTrademark("https://ljnath.com")]
 [assembly: AssemblyCulture("")]
 
